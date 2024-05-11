@@ -21,3 +21,4 @@ discounted_price = Products[product_retail_price] * 0.9. Replaced "null" values 
 6. Returns Table : Headers promoted. Checked Data Types.
 7. Transactions : Added two tables via a folder value, Connect to the folder path, and choose "Edit" vs. Combine and Edit.
 
+ttthhhf
